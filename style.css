@@ -1,4 +1,4 @@
-/* Gradient generator*/
+/*Gradient Generator : style.css*/
 body {
     font: 'Raleway', sans-serif;
     color: rgba(0, 0, 0, .5);
@@ -25,5 +25,4 @@ h3 {
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
-
 }
